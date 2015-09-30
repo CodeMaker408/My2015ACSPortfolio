@@ -1,0 +1,11 @@
+#navbar{
+    text-align:center;    
+}
+
+#navbar li{
+    display:inline-block;
+    border: 2px white-space;
+    background-color:white;
+    padding:4px;
+}
+
